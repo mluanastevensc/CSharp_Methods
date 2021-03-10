@@ -1,0 +1,4 @@
+/Users/LuckyDog/Desktop/C#/IterationStatementsLoopsExercise.app/IterationStatementsLoopsExercise/obj/Debug/netcoreapp3.1/IterationStatementsLoopsExercise.csprojAssemblyReference.cache
+/Users/LuckyDog/Desktop/C#/IterationStatementsLoopsExercise.app/IterationStatementsLoopsExercise/obj/Debug/netcoreapp3.1/IterationStatementsLoopsExercise.AssemblyInfoInputs.cache
+/Users/LuckyDog/Desktop/C#/IterationStatementsLoopsExercise.app/IterationStatementsLoopsExercise/obj/Debug/netcoreapp3.1/IterationStatementsLoopsExercise.AssemblyInfo.cs
+/Users/LuckyDog/Desktop/C#/IterationStatementsLoopsExercise.app/IterationStatementsLoopsExercise/obj/Debug/netcoreapp3.1/IterationStatementsLoopsExercise.csproj.CoreCompileInputs.cache

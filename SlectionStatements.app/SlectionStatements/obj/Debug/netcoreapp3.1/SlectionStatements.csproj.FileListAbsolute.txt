@@ -1,0 +1,12 @@
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.csprojAssemblyReference.cache
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.AssemblyInfoInputs.cache
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.AssemblyInfo.cs
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.csproj.CoreCompileInputs.cache
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/bin/Debug/netcoreapp3.1/SlectionStatements.deps.json
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/bin/Debug/netcoreapp3.1/SlectionStatements.runtimeconfig.json
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/bin/Debug/netcoreapp3.1/SlectionStatements.runtimeconfig.dev.json
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/bin/Debug/netcoreapp3.1/SlectionStatements.dll
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/bin/Debug/netcoreapp3.1/SlectionStatements.pdb
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.dll
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.pdb
+/Users/LuckyDog/Desktop/C#/SlectionStatements.app/SlectionStatements/obj/Debug/netcoreapp3.1/SlectionStatements.genruntimeconfig.cache

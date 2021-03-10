@@ -1,0 +1,12 @@
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csprojAssemblyReference.cache
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfo.cs
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.deps.json
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.json
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.dev.json
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/LuckyDog/Desktop/C#/SyntaxSugarExercise.app/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.genruntimeconfig.cache
