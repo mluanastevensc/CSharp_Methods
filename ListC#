@@ -1,0 +1,69 @@
+﻿using System;
+
+namespace ArraysAndLists
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //TODO:
+
+            // Create an int Array and populate numbers 1-10
+            var numbers = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9,10 };
+
+            /* Create two Lists of type int.
+             * Name one List "evens"
+             
+             * Name the other List "odds"
+             */
+
+            var evens = new List <int>();
+            var odds = new List<int>();
+
+            /* Using either a foreach or for loop,
+             * nest an if statement to check to see
+             *  if a number is even or odd.
+             * Then add those numbers to either the evens List
+             * or the odds List
+             */
+
+            //Way number one
+            for (int i =0; i<0; i++)
+            {
+                if (numbers[i] % 2 == 0)
+                {
+                    evens.Add(numbers);
+                }
+                else
+                {
+                    odds.Adds(numbers);
+                }
+            }
+            // Way Number Two
+            foreach(var in numbers)
+            {
+                if(var % 2 == 0)
+                {
+                    evens.Add(numbers);
+                }
+                else
+                {
+                    odds.Add(numbers);
+                }
+            }
+            /* Now using foeach or for loops,
+             * display each List of even and odd numbers
+             *
+             * Try to be creative in your display
+             */
+            foreach ( var in evens)
+            {
+                Console.WriteLine(var);
+            }
+            foreach (var in odds)
+            {
+                Console.WriteLine(odds);
+            }
+        }
+    }
+}
