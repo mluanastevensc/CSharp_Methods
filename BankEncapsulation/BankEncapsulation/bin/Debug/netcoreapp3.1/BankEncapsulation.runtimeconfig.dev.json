@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/LuckyDog/.dotnet/store/|arch|/|tfm|",
+      "/Users/LuckyDog/.nuget/packages"
+    ]
+  }
+}
